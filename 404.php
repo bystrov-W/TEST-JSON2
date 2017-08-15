@@ -1,6 +1,6 @@
 <?php 
 	header('HTTP/1.1 404 Not Found');
-	$pageTitle = 'Страница не найдена | Тесты по зельеварению';
+	$pageTitle = 'Страница не найдена |';
 	
 		require_once ('header.php');
 ?>
